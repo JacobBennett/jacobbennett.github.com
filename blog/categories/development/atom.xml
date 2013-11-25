@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Jake Bennett]]></title>
-  <link href="http://JacobBennett.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: development | Jake Bennett]]></title>
+  <link href="http://JacobBennett.github.io/blog/categories/development/atom.xml" rel="self"/>
   <link href="http://JacobBennett.github.io/"/>
   <updated>2013-11-25T11:23:44-06:00</updated>
   <id>http://JacobBennett.github.io/</id>
